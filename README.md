@@ -1,67 +1,82 @@
-<h2 align="left">Hello World, I'm Tanish 👋!</h2>
+<h2 align="left">Hey there, I'm Tanish 👋</h2>
+<h4 align="left">Builder • Designer • Community-Driven Technologist</h4>
 
-###
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FoMnk2YWJhdWI2c2FldGtzZWVla3I0MGY4NnNoYXpjcmc3bGtmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H7NXpSiEmGqgE/200.webp"  />
-
-<h3 align="left">Languages and Tools 🛠️</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="Azure SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" height="40" alt="Hardhat" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="40" alt="Devicon" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
-</div>
-
-
-<h3 align="left">Connect with me 🔗</h3>
+<img align="right" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FoMnk2YWJhdWI2c2FldGtzZWVla3I0MGY4NnNoYXpjcmc3bGtmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H7NXpSiEmGqgE/200.webp" />
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tanish-sunita-pareek/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanish Sunita Pareek" height="30" width="40" />
-  </a>
+I enjoy building products at the intersection of <b>technology, design, and communities</b>.  
+From blockchain experiments to scalable platforms and startup ecosystems — I love turning ideas into real, usable systems.
 </p>
 
+---
 
-###
+<h3 align="left">Languages & Tools I Work With 🛠️</h3>
 
-### A little more about me! 🧟‍♂️ 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40"/>
+</div>
+
+---
+
+<h3 align="left">What I’m Currently Doing 🚀</h3>
+
+<ul>
+  <li>🤝 <b>Relationship Manager</b> at <b>Growbinar</b> — building partnerships & ecosystems</li>
+  <li>🏥 <b>Founder</b> of <b>MedInventory</b> — Product & AI-driven systems startup</li>
+  <li>🌍 <b>Lead Organizer</b> at <b>CodeForBharat</b></li>
+  <li>🛡️ Organizer of <b>HackSec</b> (Security & Builder-focused hackathon)</li>
+</ul>
+
+---
+
+<h3 align="left">A Little More About Me 👨‍💻</h3>
 
 ```javascript
 const tanish = {
-  askMeAbout: ["blockchain", "web dev", "UI/UX", "tech communities"],
-  code: ["Python", "C", "Solidity", "JavaScript"],
-  tools: ["React", "Hardhat", "Prisma", "MongoDB", "Azure SQL", "MATLAB", "VSCode", "IntelliJ", "Figma", "Canva"],
-  techCommunities: {
-    CoFounder: "TechMasters India",
+  interests: [
+    "Blockchain & Web3",
+    "Product Engineering",
+    "UI/UX & Visual Systems",
+    "Startup & Developer Communities"
+  ],
+  code: ["Python", "C", "JavaScript", "Solidity"],
+  tools: [
+    "React",
+    "Hardhat",
+    "Prisma",
+    "MongoDB",
+    "Azure SQL",
+    "MATLAB",
+    "VS Code",
+    "IntelliJ",
+    "Figma",
+    "Canva"
+  ],
+  roles: {
+    Founder: "MedInventory",
+    RelationshipManager: "Growbinar",
     LeadOrganizer: "CodeForBharat",
-    Organizer: "HackSec",
-    Founder: "Blockstart"
+    Organizer: "HackSec"
   },
-  hobbies: {
-    "Designing interfaces",
-    "Reading history & tech",
-    "Being up all night chasing that ONE BUG..."
-  },
-  challenge: "Exploring full-stack blockchain with Hardhat and Solidity!"
-}
-```
-
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-
----
+  hobbies: [
+    "Designing clean interfaces",
+    "Reading history, startups & tech",
+    "Debugging at 3 AM like a ritual"
+  ],
+  currentFocus: "Building scalable, product-first systems with AI & Blockchain"
+};
