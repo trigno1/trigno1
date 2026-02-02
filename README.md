@@ -39,7 +39,7 @@ From blockchain experiments to scalable platforms and startup ecosystems — I l
   <li>🤝 <b>Relationship Manager</b> at <b>Growbinar</b> — building partnerships & ecosystems</li>
   <li>🏥 <b>Founder</b> of <b>MedInventory</b> — Product & AI-driven systems startup</li>
   <li>🌍 <b>Lead Organizer</b> at <b>CodeForBharat</b></li>
-  <li>🛡️ Organizer of <b>Algo</b> (Security & Builder-focused hackathon)</li>
+  <li>🛡️ Organizer of <b>Algo</b> </li>
 </ul>
 
 ---
