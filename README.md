@@ -240,6 +240,7 @@ Full-scale WooCommerce store with payment gateway integration, deployed and live
 
 | Period | Role | Organisation |
 |:---|:---|:---|
+| `Coming Soon` | 🔥 Building in Stealth | **Undisclosed (Launch Soon)** |
 | `Jan 2026 – Present` | 🏥 Founding Member | **MedInventory** |
 | `Oct 2025 – Present` | 🤝 Brand Partnerships Manager | **Growbinar** |
 | `Mar 2025 – Present` | 🔗 Blockchain Developer | **tecXaro** |
