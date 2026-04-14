@@ -13,7 +13,7 @@
 <a href="mailto:tanishpareek2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/trigno1"><img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=trigno1&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
 
