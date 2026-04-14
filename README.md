@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=80&lines=%E2%9A%A1+Shipping+code+that+moves+chains;%F0%9F%8C%90+Building+communities+that+move+people;%F0%9F%94%A5+10%2C000%2B+hackathon+registrations+%E2%80%94+and+counting" alt="Typing SVG" />
 
 <br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/tanish-sunitapareek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://portfoliotanishsunitapareek.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
