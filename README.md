@@ -335,13 +335,9 @@ Full-scale WooCommerce store with payment gateway integration, deployed and live
 
 <samp><b>「 Still I Rise 」</b></samp>
 
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/tanish-sunitapareek"><img src="https://img.shields.io/badge/-tanish--sunitapareek-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://portfoliotanishsunitapareek.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-111827?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
 <a href="mailto:tanishpareek2005@gmail.com"><img src="https://img.shields.io/badge/-tanishpareek2005%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
 
 <sub>⚡ Designed with purpose. Built with passion. Shipped with obsession. ⚡</sub>
 
