@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    HERO SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=220&section=header&text=TANISH%20SUNITA%20PAREEK&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Builder%20%E2%80%A2%20Web3%20Architect%20%E2%80%A2%20Ecosystem%20Catalyst&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
 
 <br/>
@@ -12,27 +8,22 @@
 
 <br/>
 
-<!-- Social Links — White icons for dark theme -->
 <a href="https://www.linkedin.com/in/tanish-sunitapareek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://portfoliotanishsunitapareek.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
 <a href="mailto:tanishpareek2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/trigno1"><img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=trigno1&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> &nbsp;Who Am I
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Who Am I
-
-<img align="right" src="https://media1.tenor.com/m/vncX1Yx1ZXAAAAAd/lewis-hamilton-baseball-celebration-2015-bahrain-lewis.gif" width="280" style="border-radius:12px;" />
+<img align="right" src="https://media1.tenor.com/m/vncX1Yx1ZXAAAAAd/lewis-hamilton-baseball-celebration-2015-bahrain-lewis.gif" width="260" style="border-radius:12px; margin-left:20px;" />
 
 **BCA final-year student at UEM Jaipur** — an emerging voice in the **Web3, blockchain, and tech ecosystem**. I combine technical creativity with community leadership, bridging the gap between technology, innovation, and real-world impact.
 
@@ -51,73 +42,65 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               STILL I RISE — POEM                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
+## ✨ &nbsp;Words I Live By
 
 <div align="center">
 
-### ✨ Words I Live By
-
-<table>
-<tr>
-<td>
-
 ```
-          STILL I RISE
-        — Maya Angelou —
-
- You may write me down in history
- With your bitter, twisted lies,
- You may trod me in the very dirt
- But still, like dust, I'll rise.
-
- Does my sassiness upset you?
- Why are you beset with gloom?
- 'Cause I walk like I've got oil wells
- Pumping in my living room.
-
- Just like moons and like suns,
- With the certainty of tides,
- Just like hopes springing high,
- Still I'll rise.
-
- Did you want to see me broken?
- Bowed head and lowered eyes?
- Shoulders falling down like teardrops,
- Weakened by my soulful cries?
-
- Does my haughtiness offend you?
- Don't you take it awful hard
- 'Cause I laugh like I've got gold mines
- Diggin' in my own backyard.
-
- You may shoot me with your words,
- You may cut me with your eyes,
- You may kill me with your hatefulness,
- But still, like air, I'll rise.
-
- Out of the huts of history's shame
- I rise
- Up from a past that's rooted in pain
- I rise
- I'm a black ocean, leaping and wide,
- Welling and swelling I bear in the tide.
-
- Leaving behind nights of terror and fear
- I rise
- Into a daybreak that's wondrously clear
- I rise
- Bringing the gifts that my ancestors gave,
- I am the dream and the hope of the slave.
- I rise
- I rise
- I rise.
+  ╭─────────────────────────────────────────────────────────╮
+  │                                                         │
+  │              S T I L L   I   R I S E                   │
+  │                  — Maya Angelou —                       │
+  │                                                         │
+  │  You may write me down in history                       │
+  │  With your bitter, twisted lies,                        │
+  │  You may trod me in the very dirt                       │
+  │  But still, like dust, I'll rise.                       │
+  │                                                         │
+  │  Does my sassiness upset you?                           │
+  │  Why are you beset with gloom?                          │
+  │  'Cause I walk like I've got oil wells                   │
+  │  Pumping in my living room.                             │
+  │                                                         │
+  │  Just like moons and like suns,                         │
+  │  With the certainty of tides,                           │
+  │  Just like hopes springing high,                        │
+  │  Still I'll rise.                                       │
+  │                                                         │
+  │  Did you want to see me broken?                         │
+  │  Bowed head and lowered eyes?                           │
+  │  Shoulders falling down like teardrops,                 │
+  │  Weakened by my soulful cries?                          │
+  │                                                         │
+  │  Does my haughtiness offend you?                        │
+  │  Don't you take it awful hard                           │
+  │  'Cause I laugh like I've got gold mines                 │
+  │  Diggin' in my own backyard.                            │
+  │                                                         │
+  │  You may shoot me with your words,                      │
+  │  You may cut me with your eyes,                         │
+  │  You may kill me with your hatefulness,                 │
+  │  But still, like air, I'll rise.                        │
+  │                                                         │
+  │  Out of the huts of history's shame                     │
+  │  I rise                                                 │
+  │  Up from a past that's rooted in pain                   │
+  │  I rise                                                 │
+  │  I'm a black ocean, leaping and wide,                   │
+  │  Welling and swelling I bear in the tide.               │
+  │                                                         │
+  │  Leaving behind nights of terror and fear               │
+  │  I rise                                                 │
+  │  Into a daybreak that's wondrously clear                │
+  │  I rise                                                 │
+  │  Bringing the gifts that my ancestors gave,             │
+  │  I am the dream and the hope of the slave.              │
+  │  I rise                                                 │
+  │  I rise                                                 │
+  │  I rise.                                                │
+  │                                                         │
+  ╰─────────────────────────────────────────────────────────╯
 ```
-
-</td>
-</tr>
-</table>
 
 <sub><i>"This poem reminds me that no setback is final. Every line of code, every failed deploy, every 3 AM debug session — still I rise."</i></sub>
 
@@ -125,15 +108,12 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   TECH STACK                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"/> &nbsp;Arsenal
 
 <div align="center">
 
-### ⚡ Languages
+**⚡ Languages**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
@@ -143,7 +123,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
+**🎨 Frontend**
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -153,7 +134,8 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
+**⚙️ Backend**
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white"/>
@@ -161,7 +143,8 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
-### ⛓️ Blockchain
+**⛓️ Blockchain**
+
 <p>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white"/>
@@ -171,7 +154,8 @@
   <img src="https://img.shields.io/badge/Thirdweb-A855F7?style=for-the-badge&logo=thirdweb&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Cloud
+**🗄️ Databases & Cloud**
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -179,7 +163,8 @@
   <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-### 🔧 Tools & Design
+**🔧 Tools & Design**
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -192,60 +177,77 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                 FEATURED PROJECTS                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## 🏗️ &nbsp;Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔗 QR-Based Multi-Chain NFT System
-Event certification & digital memorabilia platform with QR-triggered on-chain claiming across Ethereum, Polygon & BSC  
-`Next.js 14` `Prisma` `PostgreSQL` `Thirdweb` `ERC-1155`
+Event certification & digital memorabilia platform with QR-triggered on-chain claiming across Ethereum, Polygon & BSC
+
+![Next.js 14](https://img.shields.io/badge/Next.js%2014-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Thirdweb](https://img.shields.io/badge/Thirdweb-A855F7?style=flat-square&logo=thirdweb&logoColor=white)
+![ERC-1155](https://img.shields.io/badge/ERC--1155-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Resume Analyzer
-AI-driven resume scoring & job-matching with NLP transformers  
-`Python` `FastAPI` `Transformers` `React`
+AI-driven resume scoring & job-matching with NLP transformers
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎁 Darrow
-Premium luxury gifting e-commerce platform with modern UI  
-`Next.js` `GraphCMS` `TailwindCSS`
+Premium luxury gifting e-commerce platform with modern UI
+
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![GraphCMS](https://img.shields.io/badge/GraphCMS-F16E00?style=flat-square&logo=graphcms&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 EduNex Global Portal
-Full-stack overseas education consultancy with dynamic inquiry management  
-`React` `Node.js` `Express` `MongoDB`
+Full-stack overseas education consultancy with dynamic inquiry management
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚖️ LegalVerse
-CMS-enabled blogging platform for legal professionals  
-`React` `Node.js` `MongoDB`
+CMS-enabled blogging platform for legal professionals
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 E-Commerce Store
-Full-scale WooCommerce store with payment gateway integration  
-`WordPress` `WooCommerce`
+Full-scale WooCommerce store with payment gateway integration
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
 </td>
 </tr>
@@ -255,95 +257,42 @@ Full-scale WooCommerce store with payment gateway integration
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              ACHIEVEMENTS & LEADERSHIP                 -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## 🏆 &nbsp;Achievements & Leadership
 
 <div align="center">
 
-```
- ╔══════════════════════════════════════════════════════════════════════════╗
- ║                                                                        ║
- ║  🥇  Lead Organizer — Code For Bharat (Season 1 & 2)                   ║
- ║      └── 10,000+ registrations | Microsoft offices                     ║
- ║          (Gurugram & Sovereign Capital)                                 ║
- ║                                                                        ║
- ║  🚀  Lead Organizer — Code With Flow (Powered by Base44, 2026)         ║
- ║      └── Execution-first national hackathon                            ║
- ║                                                                        ║
- ║  🎓  Selected — Base44 Global Builder Cohort 2026                      ║
- ║                                                                        ║
- ║  🎤  Speaker — IIT Delhi "Chai & Code"                                 ║
- ║      └── Community-led innovation & ecosystem building                 ║
- ║                                                                        ║
- ║  🧑‍🏫  Mentor — Neural Nexus 2.0 Hackathon, Mumbai (2025)               ║
- ║      └── AI systems, blockchain architecture, product strategy         ║
- ║                                                                        ║
- ║  🌐  Contributor — GirlScript Summer of Code (Oct 2024 – Mar 2025)     ║
- ║                                                                        ║
- ║  📦  20+ technical workshops, hackathons & events organized            ║
- ║                                                                        ║
- ╚══════════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://raw.githubusercontent.com/trigno1/trigno1/main/achievements.png" width="720" alt="Achievements & Leadership"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                EXPERIENCE TIMELINE                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## 💼 &nbsp;Experience Timeline
-
-```mermaid
-gantt
-    dateFormat  YYYY-MM
-    axisFormat  %b %Y
-    title Career Timeline
-
-    section Community
-    TechMasters Community (Co-Lead)          :2024-06, 2025-09
-    Community Manager @ Algo                 :2024-09, 2026-04
-
-    section Blockchain
-    Founder @ Blockstart                     :2024-06, 2026-04
-    Blockchain Developer @ tecXaro           :2025-03, 2026-04
-
-    section Growth
-    Brand Partnerships @ Growbinar           :2025-10, 2026-04
-    Founding Member @ MedInventory           :2026-01, 2026-04
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION SNAKE                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp;Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trigno1/trigno1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trigno1/trigno1/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/trigno1/trigno1/output/github-snake-dark.svg" />
-</picture>
+| Period | Role | Organisation |
+|:---|:---|:---|
+| `Jan 2026 – Present` | 🏥 Founding Member | **MedInventory** |
+| `Oct 2025 – Present` | 🤝 Brand Partnerships Manager | **Growbinar** |
+| `Mar 2025 – Present` | 🔗 Blockchain Developer | **tecXaro** |
+| `Sep 2024 – Present` | 🌐 Community Manager | **Algo** |
+| `Jun 2024 – Present` | 🏗️ Founder & Web3 Consultant | **Blockstart** |
+| `Jun 2024 – Sep 2025` | 🤝 Co-Lead & Co-Founder | **TechMasters Community** |
 
-<br/><br/>
+</div>
+
+---
+
+## 📈 &nbsp;Contribution Activity
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=trigno1&bg_color=0d1117&color=a855f7&line=6366f1&point=ffffff&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  OPEN TO                               -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 🌐 &nbsp;Open To
 
@@ -356,10 +305,6 @@ gantt
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               ABOUT ME — CODE BLOCK                    -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 🧑‍💻 &nbsp;`cat ~/tanish.json`
 
@@ -383,13 +328,7 @@ gantt
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     FOOTER                             -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0d1117&height=120&section=footer" width="100%"/>
 
@@ -397,7 +336,7 @@ gantt
 
 <samp><b>「 Still I Rise 」</b></samp>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/tanish-sunitapareek"><img src="https://img.shields.io/badge/-tanish--sunitapareek-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://portfoliotanishsunitapareek.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
