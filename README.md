@@ -1,195 +1,410 @@
-<h1 align="center">Hey, I'm Tanish 👋</h1>
-<h3 align="center">Builder • Web3 Developer • Community-Driven Technologist</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Web3+Developer;Blockchain+Systems+Builder;Hackathon+Lead+Organizer;Ecosystem+Builder+%26+Community+Lead" alt="Typing SVG" />
-</p>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    HERO SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanish-sunitapareek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfoliotanishsunitapareek.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:tanishpareek2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/trigno1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=220&section=header&text=TANISH%20SUNITA%20PAREEK&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Builder%20%E2%80%A2%20Web3%20Architect%20%E2%80%A2%20Ecosystem%20Catalyst&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
 
----
+<br/>
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%E2%9A%A1+Shipping+code+that+moves+chains;%F0%9F%8C%90+Building+communities+that+move+people;%F0%9F%94%A5+10%2C000%2B+hackathon+registrations+organized" alt="Typing SVG" />
 
-I'm a **BCA final-year student at UEM Jaipur** and an emerging voice in the **Web3, blockchain, and tech ecosystem**. I combine technical creativity with community leadership — bridging the gap between technology, innovation, and real-world impact.
+<br/>
 
-- 🔗 **Blockchain Developer** at **tecXaro** — smart contracts, gas optimization, Web3 architecture
-- 🤝 **Brand Partnerships Manager** at **Growbinar** — creator partnerships & ecosystem growth
-- 🏥 **Founding Member** at **MedInventory** — healthcare innovation & AI-driven products
-- 🌍 **Lead Organizer** — *Code For Bharat* (10,000+ registrations, hosted at Microsoft offices)
-- 🏗️ **Founder** of **Blockstart** — Web3 consulting, NFT systems, decentralized community growth
-- 🎓 **Selected** for **Base44 Global Builder Cohort 2026**
-- 🎤 **Speaker** at **IIT Delhi** — community-led innovation & ecosystem building
-- 🧑‍🏫 **Mentor** at Neural Nexus 2.0 Hackathon (Mumbai) — AI, blockchain, product strategy
+<!-- Social Links — White icons for dark theme -->
+<a href="https://www.linkedin.com/in/tanish-sunitapareek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://portfoliotanishsunitapareek.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
+<a href="mailto:tanishpareek2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/trigno1"><img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-> *"I don't just solve problems — I bring people together to learn, innovate, and grow."*
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=trigno1&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-## 🛠️ Tech Stack
+</div>
 
-### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" title="Solidity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
-</p>
+<br/>
 
-### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" title="TailwindCSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" title="GraphQL"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    ABOUT ME                            -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-### Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" title="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" title="Prisma ORM"/>
-</p>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Who Am I
 
-### Blockchain
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" title="Solidity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" height="40" title="Hardhat"/>
-</p>
+<img align="right" src="https://media1.tenor.com/m/vncX1Yx1ZXAAAAAd/lewis-hamilton-baseball-celebration-2015-bahrain-lewis.gif" width="280" style="border-radius:12px;" />
 
-> Also working with: **Ethereum**, **Polygon**, **BSC**, **Web3.js**, **Thirdweb SDK**, **ERC-1155**, **Remix IDE**
+**BCA final-year student at UEM Jaipur** — an emerging voice in the **Web3, blockchain, and tech ecosystem**. I combine technical creativity with community leadership, bridging the gap between technology, innovation, and real-world impact.
 
-### Databases & Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" title="Azure SQL"/>
-</p>
+&nbsp;
 
-### Tools & Design
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" title="Canva"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" title="LaTeX"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" title="MATLAB"/>
-</p>
+🔗 &nbsp;**Blockchain Developer** at **tecXaro** — smart contracts, gas optimization, Web3 architecture  
+🤝 &nbsp;**Brand Partnerships Manager** at **Growbinar** — creator partnerships & ecosystem growth  
+🏥 &nbsp;**Founding Member** at **MedInventory** — healthcare innovation & AI-driven products  
+🌍 &nbsp;**Lead Organizer** — *Code For Bharat* (10,000+ registrations, Microsoft offices)  
+🏗️ &nbsp;**Founder** of **Blockstart** — Web3 consulting, NFT systems, decentralized community growth  
+🎓 &nbsp;**Selected** for **Base44 Global Builder Cohort 2026**  
+🎤 &nbsp;**Speaker** at **IIT Delhi** — community-led innovation & ecosystem building  
+🧑‍🏫 &nbsp;**Mentor** at Neural Nexus 2.0 Hackathon (Mumbai) — AI, blockchain, product strategy  
+
+<br clear="both"/>
 
 ---
 
-## 🏗️ Featured Projects
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               STILL I RISE — POEM                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-| Project | Description | Stack |
-|---|---|---|
-| 🔗 **QR-Based Multi-Chain NFT System** | Event certification & digital memorabilia platform with QR-triggered on-chain claiming across Ethereum, Polygon & BSC | Next.js 14, Prisma, PostgreSQL, Thirdweb, ERC-1155 |
-| 🤖 **AI Resume Analyzer** | AI-driven resume scoring & job-matching with NLP transformers | Python, FastAPI, Transformers, React |
-| 🎁 **Darrow** | Premium luxury gifting e-commerce platform with modern UI | Next.js, GraphCMS, TailwindCSS |
-| 🌐 **EduNex Global Portal** | Full-stack overseas education consultancy with dynamic inquiry management | React, Node.js, Express, MongoDB |
-| ⚖️ **LegalVerse** | CMS-enabled blogging platform for legal professionals | React, Node.js, MongoDB |
-| 🛒 **E-Commerce Store** | Full-scale WooCommerce store with payment gateway integration | WordPress, WooCommerce |
+<div align="center">
 
----
+### ✨ Words I Live By
 
-## 🏆 Achievements & Leadership
+<table>
+<tr>
+<td>
 
 ```
-🥇  Lead Organizer — Code For Bharat (Season 1 & 2)
-     └── 10,000+ registrations | Microsoft offices (Gurugram & Sovereign Capital)
+          STILL I RISE
+        — Maya Angelou —
 
-🚀  Lead Organizer — Code With Flow (Powered by Base44, 2026)
-     └── Execution-first national hackathon
+ You may write me down in history
+ With your bitter, twisted lies,
+ You may trod me in the very dirt
+ But still, like dust, I'll rise.
 
-🎓  Selected — Base44 Global Builder Cohort 2026
+ Does my sassiness upset you?
+ Why are you beset with gloom?
+ 'Cause I walk like I've got oil wells
+ Pumping in my living room.
 
-🎤  Speaker — IIT Delhi "Chai & Code"
-     └── Community-led innovation & ecosystem building
+ Just like moons and like suns,
+ With the certainty of tides,
+ Just like hopes springing high,
+ Still I'll rise.
 
-🧑‍🏫  Mentor — Neural Nexus 2.0 Hackathon, Mumbai (2025)
-     └── AI systems, blockchain architecture, product strategy
+ Did you want to see me broken?
+ Bowed head and lowered eyes?
+ Shoulders falling down like teardrops,
+ Weakened by my soulful cries?
 
-🌐  Contributor — GirlScript Summer of Code (Oct 2024 – Mar 2025)
+ Does my haughtiness offend you?
+ Don't you take it awful hard
+ 'Cause I laugh like I've got gold mines
+ Diggin' in my own backyard.
 
-📦  20+ technical workshops, hackathons & community events organized
+ You may shoot me with your words,
+ You may cut me with your eyes,
+ You may kill me with your hatefulness,
+ But still, like air, I'll rise.
+
+ Out of the huts of history's shame
+ I rise
+ Up from a past that's rooted in pain
+ I rise
+ I'm a black ocean, leaping and wide,
+ Welling and swelling I bear in the tide.
+
+ Leaving behind nights of terror and fear
+ I rise
+ Into a daybreak that's wondrously clear
+ I rise
+ Bringing the gifts that my ancestors gave,
+ I am the dream and the hope of the slave.
+ I rise
+ I rise
+ I rise.
 ```
+
+</td>
+</tr>
+</table>
+
+<sub><i>"This poem reminds me that no setback is final. Every line of code, every failed deploy, every 3 AM debug session — still I rise."</i></sub>
+
+</div>
 
 ---
 
-## 💼 Experience Timeline
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   TECH STACK                           -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-```
-Oct 2025 – Present   Brand Partnerships Manager @ Growbinar
-Jan 2026 – Present   Founding Member @ MedInventory
-Mar 2025 – Present   Blockchain Developer @ tecXaro
-Sep 2024 – Present   Community Manager @ Algo
-Jun 2024 – Present   Founder & Web3 Consultant @ Blockstart
-Jun 2024 – Sep 2025  Co-Lead & Co-Founder @ TechMasters Community
-```
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Arsenal
 
----
+<div align="center">
 
-## 🌐 Open To
-
-- 🛠️ **Freelance projects** — Web dev, UI/UX, Web3 apps
-- 🤝 **Web3 community building** & marketing partnerships
-- 🏗️ **Hackathon collaborations**, hosting, or speaking engagements
-- 🚀 **Startup ecosystem building** & strategic alliances
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trigno1&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trigno1&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+### ⚡ Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trigno1&theme=tokyonight&hide_border=true" />
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
+
+### ⛓️ Blockchain
+<p>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thirdweb-A855F7?style=for-the-badge&logo=thirdweb&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Design
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+</div>
 
 ---
 
-## 🧑‍💻 A Little More About Me
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                 FEATURED PROJECTS                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-```javascript
-const tanish = {
-  currentlyBuilding: ["QR-Based Multi-Chain NFT System", "MedInventory Platform"],
-  interests: ["Blockchain & Web3", "Product Engineering", "UI/UX & Visual Systems", "Startup Ecosystems"],
-  languages: ["Python", "JavaScript", "Solidity", "TypeScript", "C", "Java"],
-  blockchain: ["Ethereum", "Polygon", "BSC", "ERC-1155", "Thirdweb SDK"],
-  frontend: ["React", "Next.js", "TailwindCSS", "GraphQL"],
-  backend: ["Node.js", "Express.js", "FastAPI", "Prisma ORM"],
-  databases: ["PostgreSQL", "MongoDB", "Azure SQL"],
-  roles: {
-    BrandPartnershipsManager: "Growbinar",
-    BlockchainDeveloper: "tecXaro",
-    FoundingMember: "MedInventory",
-    Founder: "Blockstart",
-    LeadOrganizer: "Code For Bharat"
+## 🏗️ &nbsp;Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔗 QR-Based Multi-Chain NFT System
+Event certification & digital memorabilia platform with QR-triggered on-chain claiming across Ethereum, Polygon & BSC  
+`Next.js 14` `Prisma` `PostgreSQL` `Thirdweb` `ERC-1155`
+
+</td>
+<td width="50%">
+
+### 🤖 AI Resume Analyzer
+AI-driven resume scoring & job-matching with NLP transformers  
+`Python` `FastAPI` `Transformers` `React`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎁 Darrow
+Premium luxury gifting e-commerce platform with modern UI  
+`Next.js` `GraphCMS` `TailwindCSS`
+
+</td>
+<td width="50%">
+
+### 🌐 EduNex Global Portal
+Full-stack overseas education consultancy with dynamic inquiry management  
+`React` `Node.js` `Express` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚖️ LegalVerse
+CMS-enabled blogging platform for legal professionals  
+`React` `Node.js` `MongoDB`
+
+</td>
+<td width="50%">
+
+### 🛒 E-Commerce Store
+Full-scale WooCommerce store with payment gateway integration  
+`WordPress` `WooCommerce`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              ACHIEVEMENTS & LEADERSHIP                 -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🏆 &nbsp;Achievements & Leadership
+
+<div align="center">
+
+```
+ ╔══════════════════════════════════════════════════════════════════════════╗
+ ║                                                                        ║
+ ║  🥇  Lead Organizer — Code For Bharat (Season 1 & 2)                   ║
+ ║      └── 10,000+ registrations | Microsoft offices                     ║
+ ║          (Gurugram & Sovereign Capital)                                 ║
+ ║                                                                        ║
+ ║  🚀  Lead Organizer — Code With Flow (Powered by Base44, 2026)         ║
+ ║      └── Execution-first national hackathon                            ║
+ ║                                                                        ║
+ ║  🎓  Selected — Base44 Global Builder Cohort 2026                      ║
+ ║                                                                        ║
+ ║  🎤  Speaker — IIT Delhi "Chai & Code"                                 ║
+ ║      └── Community-led innovation & ecosystem building                 ║
+ ║                                                                        ║
+ ║  🧑‍🏫  Mentor — Neural Nexus 2.0 Hackathon, Mumbai (2025)               ║
+ ║      └── AI systems, blockchain architecture, product strategy         ║
+ ║                                                                        ║
+ ║  🌐  Contributor — GirlScript Summer of Code (Oct 2024 – Mar 2025)     ║
+ ║                                                                        ║
+ ║  📦  20+ technical workshops, hackathons & events organized            ║
+ ║                                                                        ║
+ ╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                EXPERIENCE TIMELINE                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 💼 &nbsp;Experience Timeline
+
+```mermaid
+gantt
+    dateFormat  YYYY-MM
+    axisFormat  %b %Y
+    title Career Timeline
+
+    section Community
+    TechMasters Community (Co-Lead)          :2024-06, 2025-09
+    Community Manager @ Algo                 :2024-09, 2026-04
+
+    section Blockchain
+    Founder @ Blockstart                     :2024-06, 2026-04
+    Blockchain Developer @ tecXaro           :2025-03, 2026-04
+
+    section Growth
+    Brand Partnerships @ Growbinar           :2025-10, 2026-04
+    Founding Member @ MedInventory           :2026-01, 2026-04
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               CONTRIBUTION SNAKE                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🐍 &nbsp;Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trigno1/trigno1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trigno1/trigno1/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/trigno1/trigno1/output/github-snake-dark.svg" />
+</picture>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trigno1&bg_color=0d1117&color=a855f7&line=6366f1&point=ffffff&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  OPEN TO                               -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🌐 &nbsp;Open To
+
+<div align="center">
+
+| 🛠️ Freelance Projects | 🤝 Web3 Community Building | 🏗️ Hackathon Collabs | 🚀 Startup Ecosystem |
+|:---:|:---:|:---:|:---:|
+| Web dev, UI/UX, Web3 apps | Marketing partnerships | Hosting or speaking | Strategic alliances |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               ABOUT ME — CODE BLOCK                    -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🧑‍💻 &nbsp;`cat ~/tanish.json`
+
+```json
+{
+  "currently_building": ["QR-Based Multi-Chain NFT System", "MedInventory Platform"],
+  "interests": ["Blockchain & Web3", "Product Engineering", "UI/UX & Visual Systems", "Startup Ecosystems"],
+  "blockchain": ["Ethereum", "Polygon", "BSC", "ERC-1155", "Thirdweb SDK"],
+  "roles": {
+    "Brand Partnerships Manager": "Growbinar",
+    "Blockchain Developer": "tecXaro",
+    "Founding Member": "MedInventory",
+    "Founder": "Blockstart",
+    "Lead Organizer": "Code For Bharat"
   },
-  hobbies: ["Designing clean interfaces", "Reading history, startups & tech", "Debugging at 3 AM like a ritual"],
-  currentFocus: "Building scalable, product-first systems with AI & Blockchain",
-  funFact: "F1 & Aerospace enthusiast 🏎️🚀"
-};
+  "current_focus": "Building scalable, product-first systems with AI & Blockchain",
+  "fun_fact": "F1 & Aerospace enthusiast 🏎️🚀",
+  "favourite_poem": "Still I Rise — Maya Angelou"
+}
 ```
 
 ---
 
-<p align="center">
-  <i>Let's connect and build something meaningful together.</i><br/>
-  <a href="https://www.linkedin.com/in/tanish-sunitapareek">LinkedIn</a> •
-  <a href="https://portfoliotanishsunitapareek.vercel.app/">Portfolio</a> •
-  <a href="mailto:tanishpareek2005@gmail.com">Email</a>
-</p>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                     FOOTER                             -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0d1117&height=120&section=footer" width="100%"/>
+
+<br/>
+
+<samp><b>「 Still I Rise 」</b></samp>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/tanish-sunitapareek"><img src="https://img.shields.io/badge/-tanish--sunitapareek-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://portfoliotanishsunitapareek.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
+<a href="mailto:tanishpareek2005@gmail.com"><img src="https://img.shields.io/badge/-tanishpareek2005@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<sub>⚡ Designed with purpose. Built with passion. ⚡</sub>
+
+</div>
