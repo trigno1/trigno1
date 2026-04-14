@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tanish Sunita Pareek — README Preview</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg-canvas:    #0d1117;
+      --bg-default:   #161b22;
+      --bg-subtle:    #1c2128;
+      --bg-inset:     #12151a;
+      --border:       #30363d;
+      --border-muted: #21262d;
+      --fg-default:   #e6edf3;
+      --fg-muted:     #8b949e;
+      --fg-subtle:    #6e7681;
+      --accent:       #6366f1;
+      --accent2:      #a855f7;
+      --blue:         #58a6ff;
+      --green:        #3fb950;
+      --link:         #58a6ff;
+      --code-bg:      #161b22;
+      --code-border:  #30363d;
+      --radius:       6px;
+      --radius-lg:    12px;
+    }
+
+    body {
+      background: var(--bg-canvas);
+      color: var(--fg-default);
+      font-family: 'Inter', -apple-system, sans-serif;
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    /* ── TOP BAR ── */
+    .topbar {
+      background: var(--bg-default);
+      border-bottom: 1px solid var(--border);
+      padding: 10px 24px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      position: sticky; top: 0; z-index: 100;
+    }
+    .topbar svg { color: #fff; flex-shrink: 0; }
+    .topbar-path { font-size: 13px; color: var(--fg-muted); font-family: 'JetBrains Mono', monospace; }
+    .topbar-path span { color: var(--fg-default); }
+
+    /* ── WRAPPER ── */
+    .wrapper {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 32px 24px 80px;
+    }
+
+    /* ── ARTICLE (readme box) ── */
+    .readme-box {
+      background: var(--bg-default);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+    }
+    .readme-header {
+      background: var(--bg-subtle);
+      border-bottom: 1px solid var(--border);
+      padding: 12px 20px;
+      font-size: 13px;
+      color: var(--fg-muted);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .readme-header svg { color: var(--fg-muted); }
+    .readme-content {
+      padding: 32px 48px 48px;
+    }
+
+    /* ── HERO BANNER ── */
+    .hero-banner {
+      width: 100%;
+      border-radius: var(--radius);
+      overflow: hidden;
+      display: block;
+    }
+    .hero-banner img { width: 100%; display: block; }
+
+    /* ── TYPING SVG ── */
+    .typing-wrap { text-align: center; margin: 20px 0 16px; }
+    .typing-wrap img { max-width: 100%; }
+
+    /* ── SOCIAL BADGES ── */
+    .badges-row {
+      text-align: center;
+      margin: 12px 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+    }
+    .badges-row img { height: 28px; border-radius: 4px; }
+    .views-row { text-align: center; margin: 8px 0 4px; }
+
+    /* ── DIVIDER ── */
+    hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 28px 0;
+    }
+
+    /* ── HEADINGS ── */
+    h2 {
+      font-size: 22px;
+      font-weight: 600;
+      color: var(--fg-default);
+      margin: 0 0 16px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    h2 img { vertical-align: middle; }
+    h3 {
+      font-size: 16px;
+      font-weight: 600;
+      color: var(--fg-default);
+      margin: 20px 0 10px;
+    }
+
+    /* ── ABOUT SECTION ── */
+    .about-grid {
+      display: flex;
+      gap: 28px;
+      align-items: flex-start;
+    }
+    .about-gif {
+      flex-shrink: 0;
+      width: 250px;
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      border: 1px solid var(--border);
+    }
+    .about-gif img { width: 100%; display: block; }
+    .about-text { flex: 1; }
+    .about-text p { color: var(--fg-default); margin-bottom: 16px; }
+    .about-text ul { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+    .about-text li { color: var(--fg-default); font-size: 14.5px; }
+    .about-text strong { color: #fff; }
+
+    /* ── POEM ── */
+    .poem-wrap {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+      gap: 16px;
+    }
+    .poem-card {
+      background: var(--bg-inset);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 32px 40px;
+      max-width: 600px;
+      width: 100%;
+      position: relative;
+      overflow: hidden;
+    }
+    .poem-card::before {
+      content: '';
+      position: absolute; top: 0; left: 0; right: 0; height: 3px;
+      background: linear-gradient(90deg, var(--accent), var(--accent2));
+    }
+    .poem-title {
+      text-align: center;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--accent2);
+      margin-bottom: 4px;
+      letter-spacing: 2px;
+    }
+    .poem-author {
+      text-align: center;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      color: var(--fg-muted);
+      margin-bottom: 24px;
+      letter-spacing: 1px;
+    }
+    .poem-body {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12.5px;
+      color: #c9d1d9;
+      line-height: 1.9;
+      white-space: pre-wrap;
+    }
+    .poem-stanza { margin-bottom: 16px; }
+    .poem-stanza:last-child { margin-bottom: 0; }
+    .poem-caption {
+      font-style: italic;
+      font-size: 13px;
+      color: var(--fg-muted);
+      text-align: center;
+      max-width: 540px;
+    }
+
+    /* ── SECTION SUBTITLE ── */
+    .section-sub {
+      text-align: center;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--fg-muted);
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      margin: 20px 0 10px;
+    }
+
+    /* ── STACK BADGES ── */
+    .stack-group { text-align: center; margin-bottom: 12px; }
+    .stack-group img { height: 28px; margin: 3px; border-radius: 4px; }
+
+    /* ── PROJECTS TABLE ── */
+    .proj-table {
+      width: 100%;
+      border-collapse: collapse;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+    }
+    .proj-table td {
+      padding: 20px 22px;
+      vertical-align: top;
+      border: 1px solid var(--border);
+      background: var(--bg-inset);
+      width: 50%;
+    }
+    .proj-table td:hover { background: #1a2030; transition: background 0.2s; }
+    .proj-table h3 { margin: 0 0 8px; font-size: 15px; }
+    .proj-table p { font-size: 13.5px; color: var(--fg-muted); margin-bottom: 10px; }
+    .tag {
+      display: inline-block;
+      background: var(--bg-subtle);
+      border: 1px solid var(--border);
+      color: var(--accent2);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      padding: 2px 8px;
+      border-radius: 20px;
+      margin: 2px 2px 0 0;
+    }
+
+    /* ── ACHIEVEMENTS ── */
+    .achievements-box {
+      background: var(--bg-inset);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 24px 28px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12.5px;
+      color: #c9d1d9;
+      position: relative;
+      overflow: hidden;
+    }
+    .achievements-box::before {
+      content: '';
+      position: absolute; top: 0; left: 0; right: 0; height: 2px;
+      background: linear-gradient(90deg, #fbbf24, var(--accent2));
+    }
+    .ach-item { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 18px; padding-bottom: 18px; border-bottom: 1px solid var(--border-muted); }
+    .ach-item:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: none; }
+    .ach-emoji { font-size: 20px; flex-shrink: 0; line-height: 1; margin-top: 2px; }
+    .ach-body { flex: 1; }
+    .ach-title { font-weight: 600; color: #e6edf3; margin-bottom: 3px; font-size: 13px; }
+    .ach-sub { color: var(--fg-muted); font-size: 12px; }
+
+    /* ── TIMELINE ── */
+    .timeline { position: relative; padding-left: 28px; }
+    .timeline::before { content: ''; position: absolute; left: 8px; top: 0; bottom: 0; width: 2px; background: linear-gradient(to bottom, var(--accent), var(--accent2)); border-radius: 2px; }
+    .tl-item { position: relative; margin-bottom: 18px; }
+    .tl-dot { position: absolute; left: -24px; top: 5px; width: 10px; height: 10px; border-radius: 50%; background: var(--accent2); border: 2px solid var(--bg-canvas); }
+    .tl-date { font-size: 11px; font-family: 'JetBrains Mono', monospace; color: var(--fg-muted); margin-bottom: 2px; }
+    .tl-role { font-size: 14px; font-weight: 600; color: var(--fg-default); }
+    .tl-company { font-size: 13px; color: var(--accent); }
+
+    /* ── GRAPHS ── */
+    .graph-wrap { text-align: center; }
+    .graph-wrap img { max-width: 100%; border-radius: var(--radius); }
+
+    /* ── OPEN TO TABLE ── */
+    .open-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    .open-table th {
+      background: var(--bg-subtle);
+      border: 1px solid var(--border);
+      padding: 12px 16px;
+      font-size: 13px;
+      color: var(--fg-default);
+      text-align: center;
+    }
+    .open-table td {
+      border: 1px solid var(--border);
+      padding: 10px 16px;
+      font-size: 13px;
+      color: var(--fg-muted);
+      text-align: center;
+      background: var(--bg-inset);
+    }
+
+    /* ── CODE BLOCK ── */
+    .code-block {
+      background: var(--code-bg);
+      border: 1px solid var(--code-border);
+      border-radius: var(--radius);
+      padding: 20px 24px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12.5px;
+      color: #e6edf3;
+      overflow-x: auto;
+      position: relative;
+    }
+    .code-block .lang-tag {
+      position: absolute; top: 10px; right: 14px;
+      font-size: 10px; color: var(--fg-subtle);
+      background: var(--bg-subtle); padding: 2px 8px; border-radius: 4px;
+      border: 1px solid var(--border);
+    }
+    .json-key   { color: #79c0ff; }
+    .json-str   { color: #a5d6ff; }
+    .json-num   { color: #f2cc60; }
+    .json-bool  { color: #ff7b72; }
+    .json-punct { color: var(--fg-muted); }
+
+    /* ── FOOTER ── */
+    .footer-wave { width: 100%; display: block; }
+    .footer-inner { text-align: center; padding: 16px 0 8px; }
+    .footer-tagline { font-family: 'JetBrains Mono', monospace; font-size: 15px; color: var(--accent2); font-weight: 700; letter-spacing: 2px; margin-bottom: 14px; }
+    .footer-badges { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 12px; }
+    .footer-badges img { height: 24px; border-radius: 4px; }
+    .footer-sub { font-size: 12px; color: var(--fg-subtle); }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 640px) {
+      .readme-content { padding: 20px 18px 36px; }
+      .about-grid { flex-direction: column; }
+      .about-gif { width: 100%; }
+      .proj-table td { display: block; width: 100%; }
+      .poem-card { padding: 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- GitHub-like top bar -->
+<div class="topbar">
+  <svg height="24" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+  <span class="topbar-path">trigno1 / <span>trigno1</span> / README.md</span>
+</div>
+
+<div class="wrapper">
+<div class="readme-box">
+
+  <div class="readme-header">
+    <svg height="14" viewBox="0 0 16 16" fill="currentColor"><path d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75zm8.5 2.5a2.25 2.25 0 012.25-2.25H14v9h-3.757a3.75 3.75 0 00-1.743.43zM7.5 10.68a3.75 3.75 0 00-1.744-.43H2v-9h3.25a2.25 2.25 0 012.25 2.25z"/></svg>
+    README.md
+  </div>
+
+  <div class="readme-content">
+
+    <!-- ── HERO ── -->
+    <div class="hero-banner">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=220&section=header&text=TANISH%20SUNITA%20PAREEK&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Builder%20%E2%80%A2%20Web3%20Architect%20%E2%80%A2%20Ecosystem%20Catalyst&descSize=16&descAlignY=55&descAlign=50" alt="Hero Banner" />
+    </div>
+
+    <div class="typing-wrap">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%E2%9A%A1+Shipping+code+that+moves+chains;%F0%9F%8C%90+Building+communities+that+move+people;%F0%9F%94%A5+10%2C000%2B+hackathon+registrations+organized" alt="Typing SVG" />
+    </div>
+
+    <div class="badges-row">
+      <a href="https://www.linkedin.com/in/tanish-sunitapareek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <a href="https://portfoliotanishsunitapareek.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="mailto:tanishpareek2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <a href="https://github.com/trigno1"><img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </div>
+    <div class="views-row">
+      <img src="https://komarev.com/ghpvc/?username=trigno1&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
+    </div>
+
+    <hr/>
+
+    <!-- ── ABOUT ── -->
+    <h2>
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" />
+      Who Am I
+    </h2>
+
+    <div class="about-grid">
+      <div class="about-gif">
+        <img src="https://media1.tenor.com/m/vncX1Yx1ZXAAAAAd/lewis-hamilton-baseball-celebration-2015-bahrain-lewis.gif" alt="Lewis Hamilton celebration gif" />
+      </div>
+      <div class="about-text">
+        <p><strong>BCA final-year student at UEM Jaipur</strong> — an emerging voice in the <strong>Web3, blockchain, and tech ecosystem</strong>. I combine technical creativity with community leadership, bridging the gap between technology, innovation, and real-world impact.</p>
+        <ul>
+          <li>🔗 &nbsp;<strong>Blockchain Developer</strong> at <strong>tecXaro</strong> — smart contracts, gas optimization, Web3 architecture</li>
+          <li>🤝 &nbsp;<strong>Brand Partnerships Manager</strong> at <strong>Growbinar</strong> — creator partnerships &amp; ecosystem growth</li>
+          <li>🏥 &nbsp;<strong>Founding Member</strong> at <strong>MedInventory</strong> — healthcare innovation &amp; AI-driven products</li>
+          <li>🌍 &nbsp;<strong>Lead Organizer</strong> — <em>Code For Bharat</em> (10,000+ registrations, Microsoft offices)</li>
+          <li>🏗️ &nbsp;<strong>Founder</strong> of <strong>Blockstart</strong> — Web3 consulting, NFT systems, decentralized community growth</li>
+          <li>🎓 &nbsp;<strong>Selected</strong> for <strong>Base44 Global Builder Cohort 2026</strong></li>
+          <li>🎤 &nbsp;<strong>Speaker</strong> at <strong>IIT Delhi</strong> — community-led innovation &amp; ecosystem building</li>
+          <li>🧑‍🏫 &nbsp;<strong>Mentor</strong> at Neural Nexus 2.0 Hackathon (Mumbai) — AI, blockchain, product strategy</li>
+        </ul>
+      </div>
+    </div>
+
+    <hr/>
+
+    <!-- ── STILL I RISE ── -->
+    <h2>✨ Words I Live By</h2>
+    <div class="poem-wrap">
+      <div class="poem-card">
+        <div class="poem-title">STILL I RISE</div>
+        <div class="poem-author">— Maya Angelou —</div>
+        <div class="poem-body">
+<div class="poem-stanza">You may write me down in history
+With your bitter, twisted lies,
+You may trod me in the very dirt
+But still, like dust, I'll rise.</div>
+
+<div class="poem-stanza">Does my sassiness upset you?
+Why are you beset with gloom?
+'Cause I walk like I've got oil wells
+Pumping in my living room.</div>
+
+<div class="poem-stanza">Just like moons and like suns,
+With the certainty of tides,
+Just like hopes springing high,
+Still I'll rise.</div>
+
+<div class="poem-stanza">Did you want to see me broken?
+Bowed head and lowered eyes?
+Shoulders falling down like teardrops,
+Weakened by my soulful cries?</div>
+
+<div class="poem-stanza">Does my haughtiness offend you?
+Don't you take it awful hard
+'Cause I laugh like I've got gold mines
+Diggin' in my own backyard.</div>
+
+<div class="poem-stanza">You may shoot me with your words,
+You may cut me with your eyes,
+You may kill me with your hatefulness,
+But still, like air, I'll rise.</div>
+
+<div class="poem-stanza">Out of the huts of history's shame
+I rise
+Up from a past that's rooted in pain
+I rise
+I'm a black ocean, leaping and wide,
+Welling and swelling I bear in the tide.</div>
+
+<div class="poem-stanza">Leaving behind nights of terror and fear
+I rise
+Into a daybreak that's wondrously clear
+I rise
+Bringing the gifts that my ancestors gave,
+I am the dream and the hope of the slave.
+I rise
+I rise
+I rise.</div>
+        </div>
+      </div>
+      <p class="poem-caption">"This poem reminds me that no setback is final. Every line of code, every failed deploy, every 3 AM debug session — still I rise."</p>
+    </div>
+
+    <hr/>
+
+    <!-- ── TECH STACK ── -->
+    <h2>
+      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24" />
+      Arsenal
+    </h2>
+
+    <div class="section-sub">⚡ Languages</div>
+    <div class="stack-group">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    </div>
+
+    <div class="section-sub">🎨 Frontend</div>
+    <div class="stack-group">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+    </div>
+
+    <div class="section-sub">⚙️ Backend</div>
+    <div class="stack-group">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+    </div>
+
+    <div class="section-sub">⛓️ Blockchain</div>
+    <div class="stack-group">
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=000"/>
+      <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Thirdweb-A855F7?style=for-the-badge&logo=thirdweb&logoColor=white"/>
+    </div>
+
+    <div class="section-sub">🗄️ Databases &amp; Cloud</div>
+    <div class="stack-group">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </div>
+
+    <div class="section-sub">🔧 Tools &amp; Design</div>
+    <div class="stack-group">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+    </div>
+
+    <hr/>
+
+    <!-- ── PROJECTS ── -->
+    <h2>🏗️ Featured Projects</h2>
+    <table class="proj-table">
+      <tr>
+        <td>
+          <h3>🔗 QR-Based Multi-Chain NFT System</h3>
+          <p>Event certification &amp; digital memorabilia platform with QR-triggered on-chain claiming across Ethereum, Polygon &amp; BSC</p>
+          <span class="tag">Next.js 14</span><span class="tag">Prisma</span><span class="tag">PostgreSQL</span><span class="tag">Thirdweb</span><span class="tag">ERC-1155</span>
+        </td>
+        <td>
+          <h3>🤖 AI Resume Analyzer</h3>
+          <p>AI-driven resume scoring &amp; job-matching with NLP transformers</p>
+          <span class="tag">Python</span><span class="tag">FastAPI</span><span class="tag">Transformers</span><span class="tag">React</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h3>🎁 Darrow</h3>
+          <p>Premium luxury gifting e-commerce platform with modern UI</p>
+          <span class="tag">Next.js</span><span class="tag">GraphCMS</span><span class="tag">TailwindCSS</span>
+        </td>
+        <td>
+          <h3>🌐 EduNex Global Portal</h3>
+          <p>Full-stack overseas education consultancy with dynamic inquiry management</p>
+          <span class="tag">React</span><span class="tag">Node.js</span><span class="tag">Express</span><span class="tag">MongoDB</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h3>⚖️ LegalVerse</h3>
+          <p>CMS-enabled blogging platform for legal professionals</p>
+          <span class="tag">React</span><span class="tag">Node.js</span><span class="tag">MongoDB</span>
+        </td>
+        <td>
+          <h3>🛒 E-Commerce Store</h3>
+          <p>Full-scale WooCommerce store with payment gateway integration</p>
+          <span class="tag">WordPress</span><span class="tag">WooCommerce</span>
+        </td>
+      </tr>
+    </table>
+
+    <hr/>
+
+    <!-- ── ACHIEVEMENTS ── -->
+    <h2>🏆 Achievements &amp; Leadership</h2>
+    <div class="achievements-box">
+      <div class="ach-item">
+        <div class="ach-emoji">🥇</div>
+        <div class="ach-body">
+          <div class="ach-title">Lead Organizer — Code For Bharat (Season 1 &amp; 2)</div>
+          <div class="ach-sub">10,000+ registrations | Microsoft offices (Gurugram &amp; Sovereign Capital)</div>
+        </div>
+      </div>
+      <div class="ach-item">
+        <div class="ach-emoji">🚀</div>
+        <div class="ach-body">
+          <div class="ach-title">Lead Organizer — Code With Flow (Powered by Base44, 2026)</div>
+          <div class="ach-sub">Execution-first national hackathon</div>
+        </div>
+      </div>
+      <div class="ach-item">
+        <div class="ach-emoji">🎓</div>
+        <div class="ach-body">
+          <div class="ach-title">Selected — Base44 Global Builder Cohort 2026</div>
+        </div>
+      </div>
+      <div class="ach-item">
+        <div class="ach-emoji">🎤</div>
+        <div class="ach-body">
+          <div class="ach-title">Speaker — IIT Delhi "Chai &amp; Code"</div>
+          <div class="ach-sub">Community-led innovation &amp; ecosystem building</div>
+        </div>
+      </div>
+      <div class="ach-item">
+        <div class="ach-emoji">🧑‍🏫</div>
+        <div class="ach-body">
+          <div class="ach-title">Mentor — Neural Nexus 2.0 Hackathon, Mumbai (2025)</div>
+          <div class="ach-sub">AI systems, blockchain architecture, product strategy</div>
+        </div>
+      </div>
+      <div class="ach-item">
+        <div class="ach-emoji">🌐</div>
+        <div class="ach-body">
+          <div class="ach-title">Contributor — GirlScript Summer of Code (Oct 2024 – Mar 2025)</div>
+        </div>
+      </div>
+      <div class="ach-item">
+        <div class="ach-emoji">📦</div>
+        <div class="ach-body">
+          <div class="ach-title">20+ technical workshops, hackathons &amp; community events organized</div>
+        </div>
+      </div>
+    </div>
+
+    <hr/>
+
+    <!-- ── TIMELINE ── -->
+    <h2>💼 Experience Timeline</h2>
+    <div class="timeline">
+      <div class="tl-item">
+        <div class="tl-dot"></div>
+        <div class="tl-date">Jan 2026 – Present</div>
+        <div class="tl-role">Founding Member</div>
+        <div class="tl-company">MedInventory</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-dot"></div>
+        <div class="tl-date">Oct 2025 – Present</div>
+        <div class="tl-role">Brand Partnerships Manager</div>
+        <div class="tl-company">Growbinar</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-dot"></div>
+        <div class="tl-date">Mar 2025 – Present</div>
+        <div class="tl-role">Blockchain Developer</div>
+        <div class="tl-company">tecXaro</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-dot"></div>
+        <div class="tl-date">Sep 2024 – Present</div>
+        <div class="tl-role">Community Manager</div>
+        <div class="tl-company">Algo</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-dot"></div>
+        <div class="tl-date">Jun 2024 – Present</div>
+        <div class="tl-role">Founder &amp; Web3 Consultant</div>
+        <div class="tl-company">Blockstart</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-dot"></div>
+        <div class="tl-date">Jun 2024 – Sep 2025</div>
+        <div class="tl-role">Co-Lead &amp; Co-Founder</div>
+        <div class="tl-company">TechMasters Community</div>
+      </div>
+    </div>
+
+    <hr/>
+
+    <!-- ── CONTRIBUTION GRAPH ── -->
+    <h2>📈 Contribution Activity</h2>
+    <div class="graph-wrap">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=trigno1&bg_color=0d1117&color=a855f7&line=6366f1&point=ffffff&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+    </div>
+
+    <hr/>
+
+    <!-- ── OPEN TO ── -->
+    <h2>🌐 Open To</h2>
+    <table class="open-table">
+      <tr>
+        <th>🛠️ Freelance Projects</th>
+        <th>🤝 Web3 Community Building</th>
+        <th>🏗️ Hackathon Collabs</th>
+        <th>🚀 Startup Ecosystem</th>
+      </tr>
+      <tr>
+        <td>Web dev, UI/UX, Web3 apps</td>
+        <td>Marketing partnerships</td>
+        <td>Hosting or speaking</td>
+        <td>Strategic alliances</td>
+      </tr>
+    </table>
+
+    <hr/>
+
+    <!-- ── JSON CODE BLOCK ── -->
+    <h2>🧑‍💻 <code style="font-size:18px; background:var(--bg-inset); padding:2px 8px; border-radius:4px; font-family:'JetBrains Mono',monospace;">cat ~/tanish.json</code></h2>
+    <div class="code-block">
+      <span class="lang-tag">json</span>
+<span class="json-punct">{</span>
+  <span class="json-key">"currently_building"</span><span class="json-punct">:</span> <span class="json-punct">[</span><span class="json-str">"QR-Based Multi-Chain NFT System"</span><span class="json-punct">,</span> <span class="json-str">"MedInventory Platform"</span><span class="json-punct">],</span>
+  <span class="json-key">"interests"</span><span class="json-punct">:</span> <span class="json-punct">[</span><span class="json-str">"Blockchain &amp; Web3"</span><span class="json-punct">,</span> <span class="json-str">"Product Engineering"</span><span class="json-punct">,</span> <span class="json-str">"UI/UX &amp; Visual Systems"</span><span class="json-punct">,</span> <span class="json-str">"Startup Ecosystems"</span><span class="json-punct">],</span>
+  <span class="json-key">"blockchain"</span><span class="json-punct">:</span> <span class="json-punct">[</span><span class="json-str">"Ethereum"</span><span class="json-punct">,</span> <span class="json-str">"Polygon"</span><span class="json-punct">,</span> <span class="json-str">"BSC"</span><span class="json-punct">,</span> <span class="json-str">"ERC-1155"</span><span class="json-punct">,</span> <span class="json-str">"Thirdweb SDK"</span><span class="json-punct">],</span>
+  <span class="json-key">"roles"</span><span class="json-punct">:</span> <span class="json-punct">{</span>
+    <span class="json-key">"Brand Partnerships Manager"</span><span class="json-punct">:</span> <span class="json-str">"Growbinar"</span><span class="json-punct">,</span>
+    <span class="json-key">"Blockchain Developer"</span><span class="json-punct">:</span> <span class="json-str">"tecXaro"</span><span class="json-punct">,</span>
+    <span class="json-key">"Founding Member"</span><span class="json-punct">:</span> <span class="json-str">"MedInventory"</span><span class="json-punct">,</span>
+    <span class="json-key">"Founder"</span><span class="json-punct">:</span> <span class="json-str">"Blockstart"</span><span class="json-punct">,</span>
+    <span class="json-key">"Lead Organizer"</span><span class="json-punct">:</span> <span class="json-str">"Code For Bharat"</span>
+  <span class="json-punct">},</span>
+  <span class="json-key">"current_focus"</span><span class="json-punct">:</span> <span class="json-str">"Building scalable, product-first systems with AI &amp; Blockchain"</span><span class="json-punct">,</span>
+  <span class="json-key">"fun_fact"</span><span class="json-punct">:</span> <span class="json-str">"F1 &amp; Aerospace enthusiast 🏎️🚀"</span><span class="json-punct">,</span>
+  <span class="json-key">"favourite_poem"</span><span class="json-punct">:</span> <span class="json-str">"Still I Rise — Maya Angelou"</span>
+<span class="json-punct">}</span>
+    </div>
+
+    <hr/>
+
+    <!-- ── FOOTER ── -->
+    <img class="footer-wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0d1117&height=120&section=footer" alt="Footer wave" />
+
+    <div class="footer-inner">
+      <div class="footer-tagline">「 Still I Rise 」</div>
+      <div class="footer-badges">
+        <a href="https://www.linkedin.com/in/tanish-sunitapareek"><img src="https://img.shields.io/badge/-tanish--sunitapareek-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+        <a href="https://portfoliotanishsunitapareek.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" /></a>
+        <a href="mailto:tanishpareek2005@gmail.com"><img src="https://img.shields.io/badge/-tanishpareek2005@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+      </div>
+      <div class="footer-sub">⚡ Designed with purpose. Built with passion. ⚡</div>
+    </div>
+
+  </div><!-- /readme-content -->
+</div><!-- /readme-box -->
+</div><!-- /wrapper -->
+
+</body>
+</html>
