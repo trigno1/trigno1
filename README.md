@@ -130,25 +130,25 @@
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
-│  🥇  Lead Organizer — Code For Bharat (Season 1 & 2)               │
-│       └── 10,000+ registrations · Microsoft offices                │
+│  🥇  Lead Organizer — Code For Bharat (Season 1 & 2)                │
+│       └── 10,000+ registrations · Microsoft offices                 │
 │            Gurugram & Sovereign Capital                             │
 │                                                                     │
 │  🚀  Lead Organizer — Code With Flow (Powered by Base44, 2026)      │
-│       └── Execution-first national hackathon                       │
+│       └── Execution-first national hackathon                        │
 │                                                                     │
 │  🎓  Selected — Base44 Global Builder Cohort 2026                   │
-│       └── Competitive global applicant pool                        │
+│       └── Competitive global applicant pool                         │
 │                                                                     │
 │  🎤  Speaker — IIT Delhi "Chai & Code" (2025)                       │
-│       └── Community-led innovation & ecosystem building            │
+│       └── Community-led innovation & ecosystem building             │
 │                                                                     │
-│  🧑‍🏫  Mentor — Neural Nexus 2.0 Hackathon, Mumbai (2025)            │
-│       └── AI systems · blockchain · product strategy               │
+│  🧑‍🏫  Mentor — Neural Nexus 2.0 Hackathon, Mumbai (2025)             │
+│       └── AI systems · blockchain · product strategy                │
 │                                                                     │
 │  🌐  Contributor — GirlScript Summer of Code (2024–2025)            │
 │                                                                     │
-│  📦  30+ team members led · 20+ tech events organized              │
+│  📦  30+ team members led · 20+ tech events organized               │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
